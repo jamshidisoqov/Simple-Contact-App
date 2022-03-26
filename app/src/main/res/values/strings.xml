@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="get_started">Get Started</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="lorem_1">I agree for to terms and Privacy Policy</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
